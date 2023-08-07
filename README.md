@@ -27,11 +27,6 @@
 - 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/uraken-5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jecarmona//)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uraken-5)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=uraken-5)  
-![GitHub metrics](https://metrics.lecoq.io/uraken-5)  
-![Profile views](https://gpvc.arturio.dev/uraken-5)  
 
 <!--
 **csolisahure/csolisahure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
